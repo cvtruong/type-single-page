@@ -7,23 +7,23 @@
 </style>
 <rect x="0" width="1728" height="2883"/>
 <g>
-	<rect x="0" y="2552.4" class="st0" width="1728" height="403"/>
-	<rect x="36" y="2479.2" class="st0" width="124" height="220.2"/>
-	<rect x="724" y="2443.4" class="st0" width="124" height="181.7"/>
-	<rect x="983.7" y="2518" class="st0" width="296.9" height="243.9"/>
-	<rect x="848" y="2173.6" class="st0" width="136" height="478.8"/>
-	<rect x="1162.4" y="2220.4" class="st0" width="65.9" height="479.1"/>
-	<rect x="101" y="213.4" class="st0" width="291" height="2476"/>
-	<path class="st0" d="M88,72.4h317c9.4,0,17,7.6,17,17v130c0,9.4-7.6,17-17,17H88c-9.4,0-17-7.6-17-17v-130C71,80,78.6,72.4,88,72.4
-		z"/>
-	<rect x="89" y="588.4" class="st0" width="316" height="31"/>
-	<rect x="89" y="1581.4" class="st0" width="316" height="31"/>
-	<rect x="446" y="2326.4" class="st0" width="308" height="470"/>
-	<path class="st0" d="M600,2012.4l154.2,372.8H445.8L600,2012.4z"/>
-	<rect x="808" y="2374.4" class="st0" width="648" height="374"/>
-	<path class="st0" d="M1079,2392.4l324.8-257.2v514.4L1079,2392.4z"/>
-	<path class="st0" d="M863,2392.4l324.8-257.2v514.4L863,2392.4z"/>
-	<rect x="1498" y="2413.4" class="st0" width="370" height="305"/>
-	<rect x="1535" y="2292.4" class="st0" width="296" height="354"/>
+	<rect x="0" y="2632.2" class="st0" width="1728" height="250.8"/>
+	<rect x="28.9" y="2573.5" class="st0" width="99.4" height="176.6"/>
+	<rect x="580.6" y="2544.8" class="st0" width="99.4" height="145.7"/>
+	<rect x="788.9" y="2604.6" class="st0" width="238.1" height="195.6"/>
+	<rect x="683.7" y="2328.4" class="st0" width="121.6" height="384"/>
+	<rect x="964.9" y="2366" class="st0" width="58.9" height="384.2"/>
+	<rect x="81" y="942.9" class="st0" width="233.4" height="1935.4"/>
+	<path class="st0" d="M70.6,831.2h254.2c7.5,0,13.6,6.1,13.6,13.6v104.3c0,7.5-6.1,13.6-13.6,13.6H70.6c-7.5,0-13.6-6.1-13.6-13.6
+		V844.9C56.9,837.3,63,831.2,70.6,831.2z"/>
+	<rect x="71.4" y="1294.5" class="st0" width="253.4" height="24.9"/>
+	<rect x="71" y="1949.8" class="st0" width="253.4" height="24.9"/>
+	<rect x="357.7" y="2451" class="st0" width="247" height="376.9"/>
+	<path class="st0" d="M481.2,2199.1l123.6,298.9H357.5L481.2,2199.1z"/>
+	<rect x="648" y="2489.4" class="st0" width="579.5" height="299.9"/>
+	<path class="st0" d="M890.3,2503.9l290.4-206.3v412.5L890.3,2503.9z"/>
+	<path class="st0" d="M697.1,2503.9l290.4-206.3v412.5L697.1,2503.9z"/>
+	<rect x="1254" y="2520.7" class="st0" width="474" height="244.6"/>
+	<rect x="1301.4" y="2423.7" class="st0" width="379.2" height="283.9"/>
 </g>
 </svg>
