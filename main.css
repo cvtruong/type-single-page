@@ -8,7 +8,9 @@
     }
     
     body{
-    background-color: #ce6767;
+    background-image: url("images/building.svg");
+    background-size: cover;
+
     font-family: 'Condor Variable';
 }
 /* how the page wrapper will appear on mobile */
@@ -29,6 +31,11 @@ grid-template-areas:
     "a a";
 }
 
+h1{
+color: white;
+
+
+}
 .history {
 grid-area: h;
 }
@@ -43,7 +50,7 @@ grid-area: a;
 }
 /* CSS for the footer */
 footer{
-    background-color: rgb(0, 154, 18);
+    background-color: rgb(255, 255, 255);
 }
 
 /* variable font animation */
