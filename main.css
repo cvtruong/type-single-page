@@ -34,6 +34,11 @@ grid-template-areas:
 h1{
 color: white;
 }
+
+h4{
+    color: #30B946;
+    }
+
 .history {
 grid-area: h;
 }
