@@ -8,7 +8,7 @@
     }
     
     body{
-    background-color: #81a487;
+    background-color: #ce6767;
     font-family: 'Condor Variable';
 }
 /* how the page wrapper will appear on mobile */
@@ -33,7 +33,7 @@ grid-template-areas:
 grid-area: h;
 }
 
-.variations{
+.languages{
 grid-area: v;
 }
 
@@ -43,7 +43,7 @@ grid-area: a;
 }
 /* CSS for the footer */
 footer{
-    background-color: gray;
+    background-color: rgb(0, 154, 18);
 }
 
 /* variable font animation */
