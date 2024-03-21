@@ -34,7 +34,7 @@ grid-template-areas:
     width:100%;
     display: grid;
     grid-gap: 0%;
-    font-size: 177%;
+    font-size: 180%;
     padding:10px;
     grid-template-columns: repeat(13, 1fr);
     grid-template-rows: auto;
@@ -42,14 +42,14 @@ grid-template-areas:
         ". . . . . . . . . q . r ."
         ". . . . . . . d . . . . ."
         ". . . o o . . . . . . . ."
-        ". . . . . n n n . . . . ."
+        ". . . . . n n . . . . . ."
         ". c c . . . . . . . . . .";
         
 }
 
 .c {
     grid-area: c;
-    margin: -150px;
+    margin: -90px;
 }
 .first-o{
     grid-area: o;
@@ -58,7 +58,7 @@ grid-template-areas:
 }
 .n {
     grid-area: n;
-    margin: 70px;
+    margin: 20px;
 
 }
 .d {
@@ -127,11 +127,11 @@ h3{
 
 @keyframes weightChange {
     0%, 100%{
-        font-variation-settings: "wght" 1000, "wdth" 50, "ital" 0;
+        /* font-variation-settings: "wght" 1000, "wdth" 50, "ital" 0; */
         opacity: 1;
     }
     50%{
-        font-variation-settings: "wght" 70, "wdth" 70, "ital" 0;
+        /* font-variation-settings: "wght" 70, "wdth" 70, "ital" 0; */
         opacity: 0;
     }
     }
