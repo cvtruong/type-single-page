@@ -1,2 +1,1 @@
-# type-single-page
- 
+I chose the Condor type face because it looked really simple and clean. The creator of Condor said he took inspiration from industrial cities. When I think of industrial cities, I think of the olden days. That's why I went with the color choice of black and white. 

@@ -39,41 +39,43 @@ grid-template-areas:
     grid-template-columns: repeat(13, 1fr);
     grid-template-rows: auto;
     grid-template-areas: 
-        ". . . . . . . . . q . r ."
-        ". . . . . . . d . . . . ."
-        ". . . o o . . . . . . . ."
-        ". . . . . n n . . . . . ."
-        ". c c . . . . . . . . . .";
+        ". . . . . . . . q q . r ."
+        ". . . . . . d d . . . . ."
+        ". . o o o . . . . . . . ."
+        ". . . . n n n . . . . . ."
+        "c c c . . . . . . . . . .";
         
 }
 
 .c {
     grid-area: c;
     margin: -90px;
+    font-weight: bolder;
 }
 .first-o{
     grid-area: o;
     margin: -10px;
-
+    font-weight: bolder;
 }
 .n {
     grid-area: n;
     margin: 20px;
-
+    font-weight: bolder;
 }
 .d {
     grid-area: d;
     margin:-120px;
-
+    font-weight: bolder;
 }
 .second-o {
     grid-area: q;
     margin:100px;
-
+    font-weight: bolder;
 }
 .r {
     grid-area: r;
     margin:100px;
+    font-weight: bolder;
 
 }
 
@@ -90,31 +92,46 @@ h2{
         }
 
 h4{
-    color: #30B946;
+    color: #FFF438;
     }
+
+h5{
+        color: #000000;
+        text-align: center;
+        font-size: 270%;
+        }
 
 #history {
     width: min(100% - 20rem, 99ch);
-    margin-top:400px;
+    margin-top:250px;
+    margin-left: 30%;
     text-align: center;
 
 /* grid-area: h; */
 }
 
 #languages{
-    /* width: min(100% - 40rem, 90ch); */
+    width: min(100% - 40rem, 50ch);
+    margin: 9%;
     margin-left: 30%;
     
     
 }
 
 #alphabet {
-margin-left: 70%;
+margin: -1%;
+margin-left: 20%;
+text-align: center;
+font-size: 150%;
+font-stretch:ultra-expanded;
 }
 
 /* CSS for the footer */
 footer{
-    background-color: rgb(255, 255, 255);
+    text-align: center;
+    color: #FFF438;
+    margin-bottom: 100;
+    font-size: 500%;
 }
 
 /* variable font animation */
