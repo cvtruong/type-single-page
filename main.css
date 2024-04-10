@@ -92,7 +92,7 @@ h2{
         }
 
 h4{
-    color: #FFF438;
+    color: #e5b06a;
     }
 
 h5{
@@ -105,7 +105,7 @@ h5{
     width: min(100% - 20rem, 99ch);
     margin-top:250px;
     margin-left: 30%;
-    text-align: center;
+    text-align: left;
 
 /* grid-area: h; */
 }
@@ -129,11 +129,14 @@ font-stretch:ultra-expanded;
 /* CSS for the footer */
 footer{
     text-align: center;
-    color: #FFF438;
-    margin-bottom: 100;
-    font-size: 500%;
+    margin-top: 500px;
+    color: #e5b06a;
+    font-size: 200%;
+    
 }
-
+.footer-text{
+    padding-bottom: 10px;
+}
 /* variable font animation */
 h3{
     font-weight:20; 
